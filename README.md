@@ -1,4 +1,3 @@
-<<<<<<< HEAD:README.md
 [![Author](https://img.shields.io/badge/Author%3A-Sergio%20Rond%C3%B3n-%239900cc)](https://www.virtualizate.com.co/)
 [![Latest Version](https://img.shields.io/github/v/release/slrondonm/wordpress-base-plugin)](https://github.com/slrondonm/wordpress-base-plugin/releases)
 [![GitHub License](https://img.shields.io/github/license/slrondonm/wordpress-base-plugin)](https://raw.githubusercontent.com/slrondonm/wordpress-base-plugin/master/README.md)
@@ -8,17 +7,14 @@
 
 # Shipping Tracking SMS
 
-=======
-=== Shipping Tracking SMS ===
->>>>>>> cd514d6... Add Updates:README.txt
-Contributors: (this should be a list of wordpress.org userid's)
-Donate link: [Grupo Virtualizate](https://virtualizate.com.co/)
-Tags: comments, spam
-Requires at least: 3.0.1
-Tested up to: 3.4
-Stable tag: 4.3
-License: GPLv2 or later
-License URI: [GPLv2](http://www.gnu.org/licenses/gpl-2.0.html)
+**Contributors:** (this should be a list of wordpress.org userid's)
+**Donate link:** [Grupo Virtualizate](https://virtualizate.com.co/)
+**Tags:** comments, spam
+**Requires at least:** 3.0.1
+**Tested up to:** 3.4
+**Stable tag:** 4.3
+**License:** GPLv2 or later
+**License URI:** [GPLv2](http://www.gnu.org/licenses/gpl-2.0.html)
 
 Here is a short description of the plugin.  This should be no more than 150 characters.  No markup here.
 
