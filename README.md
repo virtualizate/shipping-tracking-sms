@@ -1,3 +1,4 @@
+<<<<<<< HEAD:README.md
 [![Author](https://img.shields.io/badge/Author%3A-Sergio%20Rond%C3%B3n-%239900cc)](https://www.virtualizate.com.co/)
 [![Latest Version](https://img.shields.io/github/v/release/slrondonm/wordpress-base-plugin)](https://github.com/slrondonm/wordpress-base-plugin/releases)
 [![GitHub License](https://img.shields.io/github/license/slrondonm/wordpress-base-plugin)](https://raw.githubusercontent.com/slrondonm/wordpress-base-plugin/master/README.md)
@@ -7,6 +8,9 @@
 
 # Shipping Tracking SMS
 
+=======
+=== Shipping Tracking SMS ===
+>>>>>>> cd514d6... Add Updates:README.txt
 Contributors: (this should be a list of wordpress.org userid's)
 Donate link: [Grupo Virtualizate](https://virtualizate.com.co/)
 Tags: comments, spam
